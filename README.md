@@ -9,7 +9,7 @@ Este repositório contém uma análise detalhada dos dados da SAL EXPRESS, forne
 - [Resultados](#resultados)
 - [Recomendações](#recomendações)
 - [Acesso ao Dashboard](#acesso-ao-dashboard)
-- [Acesso a exploração dos Dados](#Acesso-a-Análise-dos-Dados)
+- [Acesso a Exploração dos Dados](#Acesso-a-Análise-dos-Dados)
 - [Contato](#contato)
 
 ## Introdução
@@ -67,7 +67,7 @@ A análise foi conduzida utilizando técnicas de análise de dados e visualizaç
 
 O painel completo com todos os detalhes pode ser acessado [aqui](https://app.powerbi.com/view?r=eyJrIjoiZWQ2MmM2ZDItNzQ2Ny00MjE0LTk0ZDctM2RlZTQyNDRkM2YxIiwidCI6ImIxMzMxYjcyLWNmM2UtNDIyMy04ZDYwLTg0OTc1OTQwYTk4MSJ9).
 
-## Acesso a Análise dos Dados. 
+## Acesso a Exploração dos Dados. 
 
 Notebook criado para analisar a consitência dos dados, pode ser acessado [aqui](https://github.com/viniciusguirra/DashlogisticaSalExpress/blob/main/Sal_express.ipynb)
 
