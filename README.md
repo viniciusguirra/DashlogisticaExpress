@@ -6,6 +6,8 @@ Este repositório contém uma análise detalhada dos dados da SAL EXPRESS, forne
 
 - [Introdução](#introdução)
 - [Metodologia](#metodologia)
+- [Objetivo](#objetivo)
+- [Descrição do Case](#descrição-do-case)
 - [Resultados](#resultados)
 - [Recomendações](#recomendações)
 - [Acesso ao Dashboard](#acesso-ao-dashboard)
@@ -16,9 +18,25 @@ Este repositório contém uma análise detalhada dos dados da SAL EXPRESS, forne
 
 A SAL EXPRESS é uma empresa de logística que opera em várias cidades do Brasil. Este relatório apresenta uma análise do desempenho da empresa, com foco em identificar tendências e oportunidades de melhoria.
 
+## Objetivo
+
+Analisar os dados de contratação de fretes da empresa para identificar padrões, tendências e oportunidades de otimização.
+
+## Descrição do Case
+
+1. **Exploração de dados:** Você recebeu um conjunto de dados que inclui informações sobre as contratações de fretes realizadas pela empresa nos últimos meses. Os dados incluem detalhes como origem, destino, tipo de carga, valor do frete, tempo de entrega, entre outros.
+
+2. **Análise de desempenho:** Analise o desempenho geral da empresa em termos de volume de fretes, receita gerada, principais rotas e tipos de carga mais comuns. Identifique quais regiões ou rotas têm maior demanda e quais tipos de carga são mais lucrativos.
+
+3. **Identificação de padrões:** Procure por padrões sazonais ou tendências ao longo do tempo. Por exemplo, há meses do ano com maior volume de fretes? Existem dias da semana ou horários do dia com maior demanda?
+
+4. **Análise de eficiência:** Avalie a eficiência operacional da empresa, analisando métricas como tempo médio de entrega, taxa de entrega no prazo, e custo médio por frete. Identifique áreas onde a empresa pode melhorar sua eficiência e reduzir custos operacionais.
+
+5. **Recomendações:** Com base na análise realizada, faça recomendações para a empresa visando otimizar suas operações de transporte de carga. Isso pode incluir sugestões para melhorar a alocação de recursos, identificar novas oportunidades de negócio ou implementar tecnologias de otimização de rotas.
+
 ## Metodologia
 
-A análise foi conduzida utilizando técnicas de análise de dados e visualização, empregando ferramentas como Python e Power BI para extrair insights dos dados fornecidos.
+A análise foi conduzida utilizando técnicas de análise de dados e visualização, empregando ferramentas como Python e Power BI para extrair insights dos dados fornecidos. Além de Figma para criação e prototipação do plano de fundo do dashboard, seguindo as cores da empresa. 
 
 ## Resultados
 
