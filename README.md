@@ -8,7 +8,8 @@ Este repositório contém uma análise detalhada dos dados da SAL EXPRESS, forne
 - [Metodologia](#metodologia)
 - [Resultados](#resultados)
 - [Recomendações](#recomendações)
-- [Acesso ao Relatório](#acesso-ao-relatório)
+- [Acesso ao Dashboard](#acesso-ao-dashboard)
+- [Acesso a exploração dos Dados](#Acesso-a-Análise-dos-Dados)
 - [Contato](#contato)
 
 ## Introdução
