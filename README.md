@@ -1,4 +1,4 @@
-# Análise de Desempenho da EXPRESS 
+# Análise de Desempenho EXPRESS Logística 
 
 Este repositório contém uma análise detalhada dos dados de uma empresa anamolizada que chamaremos de EXPRESS.  OObjetivo é fornecer insights sobre o desempenho da empresa e identificando áreas de oportunidade para otimização. O estudo abrange diversas métricas, incluindo receita total, volume de viagens, custos, tempo de entrega e outros indicadores relevantes para a gestão eficiente de operações logísticas.
 
