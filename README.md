@@ -1,6 +1,6 @@
-# Análise de Desempenho da SAL EXPRESS - Case técnico da empresa de logistica.
+# Análise de Desempenho da EXPRESS 
 
-Este repositório contém uma análise detalhada dos dados da SAL EXPRESS, fornecendo insights sobre o desempenho da empresa e identificando áreas de oportunidade para otimização. O estudo abrange diversas métricas, incluindo receita total, volume de viagens, custos, tempo de entrega e outros indicadores relevantes para a gestão eficiente de operações logísticas.
+Este repositório contém uma análise detalhada dos dados de uma empresa anamolizada que chamaremos de EXPRESS.  OObjetivo é fornecer insights sobre o desempenho da empresa e identificando áreas de oportunidade para otimização. O estudo abrange diversas métricas, incluindo receita total, volume de viagens, custos, tempo de entrega e outros indicadores relevantes para a gestão eficiente de operações logísticas.
 
 ## Índice
 
@@ -16,7 +16,7 @@ Este repositório contém uma análise detalhada dos dados da SAL EXPRESS, forne
 
 ## Introdução
 
-A SAL EXPRESS é uma empresa de logística que opera em várias cidades do Brasil. Este relatório apresenta uma análise do desempenho da empresa, com foco em identificar tendências e oportunidades de melhoria.
+A EXPRESS é uma empresa de logística que opera em várias cidades do Brasil. Este relatório apresenta uma análise do desempenho da empresa, com foco em identificar tendências e oportunidades de melhoria.
 
 ## Objetivo
 
