@@ -83,7 +83,7 @@ A análise foi conduzida utilizando técnicas de análise de dados e visualizaç
 
 ## Acesso ao Dashboard
 
-O painel completo com todos os detalhes pode ser acessado [aqui](https://app.powerbi.com/view?r=eyJrIjoiZWQ2MmM2ZDItNzQ2Ny00MjE0LTk0ZDctM2RlZTQyNDRkM2YxIiwidCI6ImIxMzMxYjcyLWNmM2UtNDIyMy04ZDYwLTg0OTc1OTQwYTk4MSJ9).
+O painel completo com todos os detalhes pode ser acessado [aqui]https://app.powerbi.com/view?r=eyJrIjoiZDU1YzlmMmUtMDBhNS00NDljLTljZDEtYjA5Nzg3NGM5YWY3IiwidCI6ImIxMzMxYjcyLWNmM2UtNDIyMy04ZDYwLTg0OTc1OTQwYTk4MSJ9&embedImagePlaceholder=true&pageName=413d7de4ccd13cc0d66a).
 
 ## Acesso a Exploração dos Dados. 
 
